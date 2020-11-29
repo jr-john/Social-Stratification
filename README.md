@@ -5,7 +5,7 @@ A project for the Language and Society (Monsoon 2020) course at IIIT-Hyderabad.
 
 ## Data & Analysis
 
-The data % analysis of the 3 phases are in the respective folders
+The data & analysis of the 3 phases are in the respective folders
 
 ## Individual Reports
 
